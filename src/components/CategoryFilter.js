@@ -1,12 +1,11 @@
-import React from "react";
+import React from 'react';
 
 function CategoryFilter() {
-  return (
-    <div className="categories">
-      <h5>Category filters</h5>
-      {/* render <button> elements for each category here */}
-    </div>
-  );
+	return (
+		<div className='categories'>
+			<h5>Category filters</h5>
+		</div>
+	);
 }
 
 export default CategoryFilter;
